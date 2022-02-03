@@ -1,3 +1,5 @@
+//VIDEO URL: https://www.youtube.com/watch?v=87SH2Cn0s9A
+
 #include <stdio.h>
 
 //Prototypes
